@@ -11,3 +11,14 @@ body{
     border: 1px solid black;
     border-radius: 2rem;
 }
+.box, p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box label{
+    margin-right: 1rem;
+}
+#color-mode{
+    padding: 0%;
+}
